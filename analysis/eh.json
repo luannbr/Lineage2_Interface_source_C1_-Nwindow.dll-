@@ -1,0 +1,8342 @@
+{
+ "10001600": {
+  "stub": 269268377,
+  "funcinfo": 269441872,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269268368
+  ],
+  "guard": []
+ },
+ "10001690": {
+  "stub": 269268408,
+  "funcinfo": 269441908,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269268400
+  ],
+  "guard": []
+ },
+ "10001750": {
+  "stub": 269268440,
+  "funcinfo": 269441944,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269268432
+  ],
+  "guard": []
+ },
+ "10001810": {
+  "stub": 269268472,
+  "funcinfo": 269441980,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269268464
+  ],
+  "guard": []
+ },
+ "10001b30": {
+  "stub": 269268528,
+  "funcinfo": 269442268,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268443038,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268443058,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCButton::OnPaint"
+  ]
+ },
+ "10002d90": {
+  "stub": 269268576,
+  "funcinfo": 269442544,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268448315,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268448335,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCCandidateBox::OnPaint"
+  ]
+ },
+ "10003380": {
+  "stub": 269268600,
+  "funcinfo": 269442580,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269268592
+  ],
+  "guard": []
+ },
+ "10003520": {
+  "stub": 269268681,
+  "funcinfo": 269442772,
+  "max_state": 3,
+  "catches": [
+   {
+    "va": 268449467,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268449487,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [
+   269268672
+  ],
+  "guard": [
+   "NCCompositeBox::OnPaint"
+  ]
+ },
+ "100036f0": {
+  "stub": 269268713,
+  "funcinfo": 269442808,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269268704
+  ],
+  "guard": []
+ },
+ "10003860": {
+  "stub": 269268754,
+  "funcinfo": 269442852,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269268736,
+   269268745
+  ],
+  "guard": []
+ },
+ "10003bb0": {
+  "stub": 269268777,
+  "funcinfo": 269442888,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269268768
+  ],
+  "guard": []
+ },
+ "10003cf0": {
+  "stub": 269268822,
+  "funcinfo": 269442932,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269268800,
+   269268808
+  ],
+  "guard": []
+ },
+ "10004000": {
+  "stub": 269268864,
+  "funcinfo": 269443100,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268452370,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268452390,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCCheckBox::OnPaint"
+  ]
+ },
+ "100046a0": {
+  "stub": 269268880,
+  "funcinfo": 269443196,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268454376,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268454396,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCComboBox::OnPaint"
+  ]
+ },
+ "10004ce0": {
+  "stub": 269268937,
+  "funcinfo": 269443304,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269268928
+  ],
+  "guard": []
+ },
+ "10004e20": {
+  "stub": 269268982,
+  "funcinfo": 269443348,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269268960,
+   269268968
+  ],
+  "guard": []
+ },
+ "10005400": {
+  "stub": 269268992,
+  "funcinfo": 269443480,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268457199,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268457219,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCCountSpin::OnPaint"
+  ]
+ },
+ "10005de0": {
+  "stub": 269269121,
+  "funcinfo": 269443688,
+  "max_state": 9,
+  "catches": [],
+  "unwinds": [
+   269269040,
+   269269049,
+   269269058,
+   269269067,
+   269269076,
+   269269085,
+   269269094,
+   269269103,
+   269269112
+  ],
+  "guard": []
+ },
+ "10006340": {
+  "stub": 269269144,
+  "funcinfo": 269443724,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269269136
+  ],
+  "guard": []
+ },
+ "100067b0": {
+  "stub": 269269177,
+  "funcinfo": 269443828,
+  "max_state": 3,
+  "catches": [
+   {
+    "va": 268462389,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268462409,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [
+   269269168
+  ],
+  "guard": [
+   "NCDialogBox::OnPaint"
+  ]
+ },
+ "10006d10": {
+  "stub": 269269512,
+  "funcinfo": 269444064,
+  "max_state": 26,
+  "catches": [],
+  "unwinds": [
+   269269200,
+   269269212,
+   269269224,
+   269269236,
+   269269248,
+   269269260,
+   269269272,
+   269269284,
+   269269296,
+   269269308,
+   269269320,
+   269269332,
+   269269344,
+   269269356,
+   269269368,
+   269269380,
+   269269392,
+   269269404,
+   269269416,
+   269269428,
+   269269440,
+   269269452,
+   269269464,
+   269269476,
+   269269488,
+   269269500
+  ],
+  "guard": []
+ },
+ "10008180": {
+  "stub": 269269572,
+  "funcinfo": 269444124,
+  "max_state": 4,
+  "catches": [],
+  "unwinds": [
+   269269536,
+   269269545,
+   269269554,
+   269269563
+  ],
+  "guard": []
+ },
+ "10008980": {
+  "stub": 269269634,
+  "funcinfo": 269444240,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269269616,
+   269269625
+  ],
+  "guard": []
+ },
+ "10008ea0": {
+  "stub": 269269657,
+  "funcinfo": 269444312,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269269648
+  ],
+  "guard": []
+ },
+ "10008f50": {
+  "stub": 269269689,
+  "funcinfo": 269444348,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269269680
+  ],
+  "guard": []
+ },
+ "100091e0": {
+  "stub": 269269739,
+  "funcinfo": 269444400,
+  "max_state": 3,
+  "catches": [],
+  "unwinds": [
+   269269712,
+   269269721,
+   269269730
+  ],
+  "guard": []
+ },
+ "10009440": {
+  "stub": 269269778,
+  "funcinfo": 269444444,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269269760,
+   269269769
+  ],
+  "guard": []
+ },
+ "10009980": {
+  "stub": 269269810,
+  "funcinfo": 269444488,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269269792,
+   269269801
+  ],
+  "guard": []
+ },
+ "10009ed0": {
+  "stub": 269269940,
+  "funcinfo": 269444684,
+  "max_state": 4,
+  "catches": [],
+  "unwinds": [
+   269269904,
+   269269913,
+   269269922,
+   269269931
+  ],
+  "guard": []
+ },
+ "1000a180": {
+  "stub": 269270006,
+  "funcinfo": 269444760,
+  "max_state": 6,
+  "catches": [],
+  "unwinds": [
+   269269952,
+   269269961,
+   269269970,
+   269269979,
+   269269988,
+   269269997
+  ],
+  "guard": []
+ },
+ "1000a7f0": {
+  "stub": 269270034,
+  "funcinfo": 269444804,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269270016,
+   269270025
+  ],
+  "guard": []
+ },
+ "1000abe0": {
+  "stub": 269270102,
+  "funcinfo": 269444880,
+  "max_state": 6,
+  "catches": [],
+  "unwinds": [
+   269270048,
+   269270057,
+   269270066,
+   269270075,
+   269270084,
+   269270093
+  ],
+  "guard": []
+ },
+ "1000b370": {
+  "stub": 269270136,
+  "funcinfo": 269444924,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269270112,
+   269270124
+  ],
+  "guard": []
+ },
+ "1000c390": {
+  "stub": 269270192,
+  "funcinfo": 269445128,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268485810,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268485830,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCFrameCtrl::OnPaint"
+  ]
+ },
+ "1000c560": {
+  "stub": 269270216,
+  "funcinfo": 269445164,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269270208
+  ],
+  "guard": []
+ },
+ "1000cf30": {
+  "stub": 269270240,
+  "funcinfo": 269445260,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268488614,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268488634,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCGDevice::Draw3DCoordText"
+  ]
+ },
+ "1000d180": {
+  "stub": 269270267,
+  "funcinfo": 269445296,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269270256
+  ],
+  "guard": []
+ },
+ "1000d2d0": {
+  "stub": 269270288,
+  "funcinfo": 269445428,
+  "max_state": 4,
+  "catches": [
+   {
+    "va": 268489690,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268489517,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "new"
+  ]
+ },
+ "1000d6a0": {
+  "stub": 269270323,
+  "funcinfo": 269445508,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269270304,
+   269270312
+  ],
+  "guard": []
+ },
+ "1000d750": {
+  "stub": 269270355,
+  "funcinfo": 269445552,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269270336,
+   269270344
+  ],
+  "guard": []
+ },
+ "1000da50": {
+  "stub": 269270376,
+  "funcinfo": 269445740,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269270368
+  ],
+  "guard": []
+ },
+ "1000ecc0": {
+  "stub": 269270432,
+  "funcinfo": 269445872,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268496221,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268496241,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCTaiwanIME::OnImeSetContext"
+  ]
+ },
+ "1000f1f0": {
+  "stub": 269270457,
+  "funcinfo": 269445908,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269270448
+  ],
+  "guard": []
+ },
+ "10010230": {
+  "stub": 269270512,
+  "funcinfo": 269447196,
+  "max_state": 38,
+  "catches": [
+   {
+    "va": 268501866,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268501886,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268501961,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268501981,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268502221,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268502241,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268502394,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268502414,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268502695,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268502715,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268502821,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268502841,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268503113,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268503133,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268503271,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268503291,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268503548,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268503568,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268503641,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268503661,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268504021,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268504041,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268504136,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268504156,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268504416,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268504436,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268504504,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268504524,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268504771,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268504791,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268504857,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268504877,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268505323,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268505343,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCKoreanIME::OnImeComposition::GCS_RESULTCLAUSE::NotUnicode",
+   "NCKoreanIME::OnImeComposition::GCS_RESULTCLAUSE::Unicode",
+   "NCKoreanIME::OnImeComposition::GCS_RESULTSTR::NotUnicode",
+   "NCKoreanIME::OnImeComposition::GCS_RESULTSTR::Unicode",
+   "NCKoreanIME::OnImeComposition::GCS_COMPSTR::NotUnicode",
+   "NCKoreanIME::OnImeComposition::GCS_COMPSTR::Unicode",
+   "NCKoreanIME::OnImeComposition::GCS_COMPATTR::NotUnicode",
+   "NCKoreanIME::OnImeComposition::GCS_COMPATTR::Unicode",
+   "NCKoreanIME::OnImeComposition::GCS_COMPCLAUSE::NotUnicode",
+   "NCKoreanIME::OnImeComposition::GCS_COMPCLAUSE::Unicode",
+   "NCKoreanIME::OnImeComposition::GCS_COMPREADSTR::NotUnicode",
+   "NCKoreanIME::OnImeComposition::GCS_COMPREADSTR::Unicode",
+   "NCKoreanIME::OnImeComposition::GCS_COMPREADCLAUSE::NotUnicode",
+   "NCKoreanIME::OnImeComposition::GCS_COMPREADCLAUSE::Unicode",
+   "NCKoreanIME::OnImeComposition::GCS_COMPREADATTR::NotUnicode",
+   "NCKoreanIME::OnImeComposition::GCS_COMPREADATTR::Unicode",
+   "NCKoreanIME::OnImeComposition"
+  ]
+ },
+ "10011270": {
+  "stub": 269270528,
+  "funcinfo": 269448412,
+  "max_state": 38,
+  "catches": [
+   {
+    "va": 268506064,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268506084,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268506159,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268506179,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268506419,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268506439,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268506592,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268506612,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268506903,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268506923,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268507029,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268507049,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268507320,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268507340,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268507479,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268507499,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268507763,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268507783,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268507858,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268507878,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268508350,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268508370,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268508465,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268508485,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268508752,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268508772,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268508840,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268508860,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268509107,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268509127,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268509193,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268509213,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268509659,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268509679,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCJapaneseIME::OnImeComposition::GCS_RESULTCLAUSE::NotUnicode",
+   "NCJapaneseIME::OnImeComposition::GCS_RESULTCLAUSE::Unicode",
+   "NCJapaneseIME::OnImeComposition::GCS_RESULTSTR::NotUnicode",
+   "NCJapaneseIME::OnImeComposition::GCS_RESULTSTR::Unicode",
+   "NCJapaneseIME::OnImeComposition::GCS_COMPSTR::NotUnicode",
+   "NCJapaneseIME::OnImeComposition::GCS_COMPSTR::Unicode",
+   "NCJapaneseIME::OnImeComposition::GCS_COMPATTR::NotUnicode",
+   "NCJapaneseIME::OnImeComposition::GCS_COMPATTR::Unicode",
+   "NCJapaneseIME::OnImeComposition::GCS_COMPCLAUSE::NotUnicode",
+   "NCJapaneseIME::OnImeComposition::GCS_COMPCLAUSE::Unicode",
+   "NCJapaneseIME::OnImeComposition::GCS_COMPREADSTR::NotUnicode",
+   "NCJapaneseIME::OnImeComposition::GCS_COMPREADSTR::Unicode",
+   "NCJapaneseIME::OnImeComposition::GCS_COMPREADCLAUSE::NotUnicode",
+   "NCJapaneseIME::OnImeComposition::GCS_COMPREADCLAUSE::Unicode",
+   "NCJapaneseIME::OnImeComposition::GCS_COMPREADATTR::NotUnicode",
+   "NCJapaneseIME::OnImeComposition::GCS_COMPREADATTR::Unicode",
+   "NCJapaneseIME::OnImeComposition"
+  ]
+ },
+ "10012310": {
+  "stub": 269270544,
+  "funcinfo": 269449628,
+  "max_state": 38,
+  "catches": [
+   {
+    "va": 268510320,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268510340,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268510415,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268510435,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268510675,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268510695,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268510848,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268510868,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268511159,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268511179,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268511285,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268511305,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268511576,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268511596,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268511735,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268511755,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268512019,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268512039,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268512114,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268512134,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268512480,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268512500,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268512595,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268512615,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268512881,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268512901,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268512969,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268512989,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268513237,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268513257,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268513325,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268513345,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268513751,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268513771,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCTaiwanIME::OnImeComposition::GCS_RESULTCLAUSE::NotUnicode",
+   "NCTaiwanIME::OnImeComposition::GCS_RESULTCLAUSE::Unicode",
+   "NCTaiwanIME::OnImeComposition::GCS_RESULTSTR::NotUnicode",
+   "NCTaiwanIME::OnImeComposition::GCS_RESULTSTR::Unicode",
+   "NCTaiwanIME::OnImeComposition::GCS_COMPSTR::NotUnicode",
+   "NCTaiwanIME::OnImeComposition::GCS_COMPSTR::Unicode",
+   "NCTaiwanIME::OnImeComposition::GCS_COMPATTR::NotUnicode",
+   "NCTaiwanIME::OnImeComposition::GCS_COMPATTR::Unicode",
+   "NCTaiwanIME::OnImeComposition::GCS_COMPCLAUSE::NotUnicode",
+   "NCTaiwanIME::OnImeComposition::GCS_COMPCLAUSE::Unicode",
+   "NCTaiwanIME::OnImeComposition::GCS_COMPREADSTR::NotUnicode",
+   "NCTaiwanIME::OnImeComposition::GCS_COMPREADSTR::Unicode",
+   "NCTaiwanIME::OnImeComposition::GCS_COMPREADCLAUSE::NotUnicode",
+   "NCTaiwanIME::OnImeComposition::GCS_COMPREADCLAUSE::Unicode",
+   "NCTaiwanIME::OnImeComposition::GCS_COMPREADATTR::NotUnicode",
+   "NCTaiwanIME::OnImeComposition::GCS_COMPREADATTR::Unicode",
+   "NCTaiwanIME::OnImeComposition"
+  ]
+ },
+ "100134c0": {
+  "stub": 269270587,
+  "funcinfo": 269450868,
+  "max_state": 41,
+  "catches": [
+   {
+    "va": 268514853,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268514873,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268514948,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268514968,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268515208,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268515228,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268515385,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268515405,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268515761,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268515781,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268515964,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268515984,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268516312,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268516332,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268516471,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268516491,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268516775,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268516795,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268516870,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268516890,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268517356,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268517376,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268517467,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268517487,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268517770,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268517790,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268517858,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268517878,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268518125,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268518145,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268518211,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268518231,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268518648,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268518668,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [
+   269270560,
+   269270569,
+   269270578
+  ],
+  "guard": [
+   "NCChineseIME::OnImeComposition::GCS_RESULTCLAUSE::NotUnicode",
+   "NCChineseIME::OnImeComposition::GCS_RESULTCLAUSE::Unicode",
+   "NCChineseIME::OnImeComposition::GCS_RESULTSTR::NotUnicode",
+   "NCChineseIME::OnImeComposition::GCS_RESULTSTR::Unicode",
+   "NCChineseIME::OnImeComposition::GCS_COMPSTR::NotUnicode",
+   "NCChineseIME::OnImeComposition::GCS_COMPSTR::Unicode",
+   "NCChineseIME::OnImeComposition::GCS_COMPATTR::NotUnicode",
+   "NCChineseIME::OnImeComposition::GCS_COMPATTR::Unicode",
+   "NCChineseIME::OnImeComposition::GCS_COMPCLAUSE::NotUnicode",
+   "NCChineseIME::OnImeComposition::GCS_COMPCLAUSE::Unicode",
+   "NCChineseIME::OnImeComposition::GCS_COMPREADSTR::NotUnicode",
+   "NCChineseIME::OnImeComposition::GCS_COMPREADSTR::Unicode",
+   "NCChineseIME::OnImeComposition::GCS_COMPREADCLAUSE::NotUnicode",
+   "NCChineseIME::OnImeComposition::GCS_COMPREADCLAUSE::Unicode",
+   "NCChineseIME::OnImeComposition::GCS_COMPREADATTR::NotUnicode",
+   "NCChineseIME::OnImeComposition::GCS_COMPREADATTR::Unicode",
+   "NCChineseIME::OnImeComposition"
+  ]
+ },
+ "10014930": {
+  "stub": 269270640,
+  "funcinfo": 269451164,
+  "max_state": 4,
+  "catches": [
+   {
+    "va": 268519960,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268519980,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268520189,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268520209,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCTaiwanIME::OnImeNotify::IMN_OPENCANDIDATE",
+   "NCTaiwanIME::OnImeNotify"
+  ]
+ },
+ "10014c10": {
+  "stub": 269270693,
+  "funcinfo": 269451260,
+  "max_state": 3,
+  "catches": [],
+  "unwinds": [
+   269270656,
+   269270664,
+   269270678
+  ],
+  "guard": []
+ },
+ "10014c90": {
+  "stub": 269270776,
+  "funcinfo": 269451336,
+  "max_state": 6,
+  "catches": [],
+  "unwinds": [
+   269270704,
+   269270716,
+   269270728,
+   269270740,
+   269270752,
+   269270764
+  ],
+  "guard": []
+ },
+ "10015840": {
+  "stub": 269270832,
+  "funcinfo": 269451504,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268523741,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268523761,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCIcon::OnPaint"
+  ]
+ },
+ "100168e0": {
+  "stub": 269270856,
+  "funcinfo": 269451540,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269270848
+  ],
+  "guard": []
+ },
+ "100169f0": {
+  "stub": 269270880,
+  "funcinfo": 269451636,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268528483,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268528503,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCItemWnd::OnPaint"
+  ]
+ },
+ "10017110": {
+  "stub": 269270896,
+  "funcinfo": 269451732,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268530100,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268530120,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCCoolTimeIcon::PreSetMaterial"
+  ]
+ },
+ "10017620": {
+  "stub": 269270921,
+  "funcinfo": 269451768,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269270912
+  ],
+  "guard": []
+ },
+ "10017780": {
+  "stub": 269270966,
+  "funcinfo": 269451848,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269270944,
+   269270952
+  ],
+  "guard": []
+ },
+ "10017c30": {
+  "stub": 269270976,
+  "funcinfo": 269451944,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268533222,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268533242,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCListBox::OnPaint"
+  ]
+ },
+ "10018310": {
+  "stub": 269271003,
+  "funcinfo": 269451980,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269270992
+  ],
+  "guard": []
+ },
+ "10018460": {
+  "stub": 269271033,
+  "funcinfo": 269452016,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269271024
+  ],
+  "guard": []
+ },
+ "100185d0": {
+  "stub": 269271078,
+  "funcinfo": 269452060,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269271056,
+   269271064
+  ],
+  "guard": []
+ },
+ "10019100": {
+  "stub": 269271096,
+  "funcinfo": 269452096,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269271088
+  ],
+  "guard": []
+ },
+ "10019150": {
+  "stub": 269271120,
+  "funcinfo": 269452192,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268538492,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268538512,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCHeaderCtrl::OnPaint"
+  ]
+ },
+ "100192b0": {
+  "stub": 269271136,
+  "funcinfo": 269452288,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268539210,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268539230,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCListCtrl::OnPaint"
+  ]
+ },
+ "1001a010": {
+  "stub": 269271161,
+  "funcinfo": 269452360,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269271152
+  ],
+  "guard": []
+ },
+ "1001a1b0": {
+  "stub": 269271220,
+  "funcinfo": 269452412,
+  "max_state": 3,
+  "catches": [],
+  "unwinds": [
+   269271184,
+   269271192,
+   269271206
+  ],
+  "guard": []
+ },
+ "1001a620": {
+  "stub": 269271286,
+  "funcinfo": 269452488,
+  "max_state": 6,
+  "catches": [],
+  "unwinds": [
+   269271232,
+   269271241,
+   269271250,
+   269271259,
+   269271268,
+   269271277
+  ],
+  "guard": []
+ },
+ "1001aad0": {
+  "stub": 269271350,
+  "funcinfo": 269452564,
+  "max_state": 6,
+  "catches": [],
+  "unwinds": [
+   269271296,
+   269271305,
+   269271314,
+   269271323,
+   269271332,
+   269271341
+  ],
+  "guard": []
+ },
+ "1001b1a0": {
+  "stub": 269271369,
+  "funcinfo": 269452600,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269271360
+  ],
+  "guard": []
+ },
+ "1001b430": {
+  "stub": 269271460,
+  "funcinfo": 269452732,
+  "max_state": 4,
+  "catches": [],
+  "unwinds": [
+   269271424,
+   269271433,
+   269271442,
+   269271451
+  ],
+  "guard": []
+ },
+ "1001c3d0": {
+  "stub": 269271631,
+  "funcinfo": 269452988,
+  "max_state": 7,
+  "catches": [],
+  "unwinds": [
+   269271568,
+   269271577,
+   269271586,
+   269271595,
+   269271604,
+   269271613,
+   269271622
+  ],
+  "guard": []
+ },
+ "1001c9e0": {
+  "stub": 269271729,
+  "funcinfo": 269453088,
+  "max_state": 9,
+  "catches": [],
+  "unwinds": [
+   269271648,
+   269271657,
+   269271666,
+   269271675,
+   269271684,
+   269271693,
+   269271702,
+   269271711,
+   269271720
+  ],
+  "guard": []
+ },
+ "1001d040": {
+  "stub": 269271762,
+  "funcinfo": 269453132,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269271744,
+   269271753
+  ],
+  "guard": []
+ },
+ "1001d4c0": {
+  "stub": 269271812,
+  "funcinfo": 269453236,
+  "max_state": 4,
+  "catches": [],
+  "unwinds": [
+   269271776,
+   269271785,
+   269271794,
+   269271803
+  ],
+  "guard": []
+ },
+ "1001dc20": {
+  "stub": 269271865,
+  "funcinfo": 269453316,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269271856
+  ],
+  "guard": []
+ },
+ "1001e0f0": {
+  "stub": 269272008,
+  "funcinfo": 269453460,
+  "max_state": 10,
+  "catches": [],
+  "unwinds": [
+   269271888,
+   269271900,
+   269271912,
+   269271924,
+   269271936,
+   269271948,
+   269271960,
+   269271972,
+   269271984,
+   269271996
+  ],
+  "guard": []
+ },
+ "1001e700": {
+  "stub": 269272269,
+  "funcinfo": 269453664,
+  "max_state": 22,
+  "catches": [],
+  "unwinds": [
+   269272032,
+   269272044,
+   269272056,
+   269272068,
+   269272080,
+   269272089,
+   269272101,
+   269272110,
+   269272122,
+   269272131,
+   269272143,
+   269272152,
+   269272164,
+   269272176,
+   269272188,
+   269272200,
+   269272212,
+   269272224,
+   269272233,
+   269272242,
+   269272251,
+   269272260
+  ],
+  "guard": []
+ },
+ "1001fbc0": {
+  "stub": 269272393,
+  "funcinfo": 269453780,
+  "max_state": 11,
+  "catches": [],
+  "unwinds": [
+   269272288,
+   269272300,
+   269272309,
+   269272318,
+   269272327,
+   269272336,
+   269272348,
+   269272357,
+   269272366,
+   269272375,
+   269272384
+  ],
+  "guard": []
+ },
+ "10020a90": {
+  "stub": 269272482,
+  "funcinfo": 269453848,
+  "max_state": 5,
+  "catches": [],
+  "unwinds": [
+   269272416,
+   269272424,
+   269272438,
+   269272452,
+   269272467
+  ],
+  "guard": []
+ },
+ "10020b30": {
+  "stub": 269272547,
+  "funcinfo": 269453908,
+  "max_state": 4,
+  "catches": [],
+  "unwinds": [
+   269272496,
+   269272504,
+   269272518,
+   269272532
+  ],
+  "guard": []
+ },
+ "10021b80": {
+  "stub": 269272592,
+  "funcinfo": 269454076,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268573839,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268573859,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCSliderBar::OnPaint"
+  ]
+ },
+ "10021f80": {
+  "stub": 269272630,
+  "funcinfo": 269454120,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269272608,
+   269272619
+  ],
+  "guard": []
+ },
+ "10022ab0": {
+  "stub": 269272708,
+  "funcinfo": 269454280,
+  "max_state": 3,
+  "catches": [],
+  "unwinds": [
+   269272672,
+   269272680,
+   269272694
+  ],
+  "guard": []
+ },
+ "100240a0": {
+  "stub": 269272720,
+  "funcinfo": 269454376,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268583145,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268583165,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NHtmlAnalyzer::OnPaint"
+  ]
+ },
+ "100241f0": {
+  "stub": 269272800,
+  "funcinfo": 269454444,
+  "max_state": 5,
+  "catches": [],
+  "unwinds": [
+   269272736,
+   269272744,
+   269272758,
+   269272772,
+   269272786
+  ],
+  "guard": []
+ },
+ "100242c0": {
+  "stub": 269272816,
+  "funcinfo": 269454540,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268583687,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268583707,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCVirtualWndMain::SetGDevice"
+  ]
+ },
+ "10024340": {
+  "stub": 269272832,
+  "funcinfo": 269454636,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268583809,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268583829,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCVirtualWndMain::ReleaseGDevice"
+  ]
+ },
+ "10024690": {
+  "stub": 269272856,
+  "funcinfo": 269454672,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269272848
+  ],
+  "guard": []
+ },
+ "10024bf0": {
+  "stub": 269272880,
+  "funcinfo": 269454836,
+  "max_state": 4,
+  "catches": [
+   {
+    "va": 268586201,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268586221,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268586824,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268586844,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "WM_PAINT",
+   "NCVirtualWndMain::DispatchWndMsg"
+  ]
+ },
+ "10025180": {
+  "stub": 269272896,
+  "funcinfo": 269454932,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268587487,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268587507,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCVirtualWndMain::ClearFocus"
+  ]
+ },
+ "100252a0": {
+  "stub": 269272912,
+  "funcinfo": 269455028,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268587823,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268587843,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCVirtualWndMain::FindNWindow"
+  ]
+ },
+ "100257d0": {
+  "stub": 269272928,
+  "funcinfo": 269455124,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268589248,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268589268,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCVirtualWndMain::RegisterNWindow"
+  ]
+ },
+ "10025910": {
+  "stub": 269272944,
+  "funcinfo": 269455220,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268589493,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268589513,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCVirtualWndMain::UnRegisterNWindow"
+  ]
+ },
+ "100259f0": {
+  "stub": 269272969,
+  "funcinfo": 269455256,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269272960
+  ],
+  "guard": []
+ },
+ "10025a80": {
+  "stub": 269273033,
+  "funcinfo": 269455384,
+  "max_state": 6,
+  "catches": [
+   {
+    "va": 268589897,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268589917,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [
+   269272992,
+   269273000,
+   269273011,
+   269273022
+  ],
+  "guard": [
+   "NCVirtualWndMain::NCVirtualWndMain"
+  ]
+ },
+ "10025bb0": {
+  "stub": 269273097,
+  "funcinfo": 269455444,
+  "max_state": 4,
+  "catches": [],
+  "unwinds": [
+   269273056,
+   269273064,
+   269273075,
+   269273086
+  ],
+  "guard": []
+ },
+ "10027700": {
+  "stub": 269273120,
+  "funcinfo": 269455576,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268597163,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268597183,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNPCHtmlViewer::OnPaint"
+  ]
+ },
+ "10027830": {
+  "stub": 269273144,
+  "funcinfo": 269455612,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269273136
+  ],
+  "guard": []
+ },
+ "10027ad0": {
+  "stub": 269273200,
+  "funcinfo": 269455744,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268598132,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268598152,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNPCHtmlViewer::OnPaint"
+  ]
+ },
+ "10028040": {
+  "stub": 269273216,
+  "funcinfo": 269455876,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268599605,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268599625,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCHtmlViewer::OnPaint"
+  ]
+ },
+ "10028820": {
+  "stub": 269273264,
+  "funcinfo": 269456188,
+  "max_state": 4,
+  "catches": [
+   {
+    "va": 268601639,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268601471,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": []
+ },
+ "100289b0": {
+  "stub": 269273288,
+  "funcinfo": 269456224,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269273280
+  ],
+  "guard": []
+ },
+ "10028b90": {
+  "stub": 269273331,
+  "funcinfo": 269456312,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269273312,
+   269273320
+  ],
+  "guard": []
+ },
+ "1002ad60": {
+  "stub": 269273477,
+  "funcinfo": 269456576,
+  "max_state": 6,
+  "catches": [],
+  "unwinds": [
+   269273408,
+   269273416,
+   269273427,
+   269273438,
+   269273449,
+   269273463
+  ],
+  "guard": []
+ },
+ "1002b2b0": {
+  "stub": 269273504,
+  "funcinfo": 269456620,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269273488,
+   269273496
+  ],
+  "guard": []
+ },
+ "1002be80": {
+  "stub": 269273592,
+  "funcinfo": 269456800,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269273584
+  ],
+  "guard": []
+ },
+ "1002c110": {
+  "stub": 269273627,
+  "funcinfo": 269456836,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269273616
+  ],
+  "guard": []
+ },
+ "1002d490": {
+  "stub": 269273729,
+  "funcinfo": 269457060,
+  "max_state": 3,
+  "catches": [
+   {
+    "va": 268621047,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [
+   269273712
+  ],
+  "guard": []
+ },
+ "1002d840": {
+  "stub": 269273820,
+  "funcinfo": 269457192,
+  "max_state": 4,
+  "catches": [],
+  "unwinds": [
+   269273776,
+   269273787,
+   269273798,
+   269273809
+  ],
+  "guard": []
+ },
+ "1002e050": {
+  "stub": 269273848,
+  "funcinfo": 269457300,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269273840
+  ],
+  "guard": []
+ },
+ "1002e110": {
+  "stub": 269273889,
+  "funcinfo": 269457388,
+  "max_state": 3,
+  "catches": [
+   {
+    "va": 268624247,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [
+   269273872
+  ],
+  "guard": []
+ },
+ "1002e1b0": {
+  "stub": 269273944,
+  "funcinfo": 269457456,
+  "max_state": 5,
+  "catches": [],
+  "unwinds": [
+   269273904,
+   269273912,
+   269273920,
+   269273928,
+   269273936
+  ],
+  "guard": []
+ },
+ "1002e7b0": {
+  "stub": 269273968,
+  "funcinfo": 269457588,
+  "max_state": 4,
+  "catches": [
+   {
+    "va": 268626259,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268626275,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": []
+ },
+ "1002ea60": {
+  "stub": 269273984,
+  "funcinfo": 269457720,
+  "max_state": 4,
+  "catches": [
+   {
+    "va": 268626951,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268626967,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": []
+ },
+ "1002edd0": {
+  "stub": 269274008,
+  "funcinfo": 269457860,
+  "max_state": 5,
+  "catches": [
+   {
+    "va": 268627945,
+    "type": 0,
+    "adjectives": 0
+   },
+   {
+    "va": 268628141,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [
+   269274000
+  ],
+  "guard": []
+ },
+ "1002f170": {
+  "stub": 269274065,
+  "funcinfo": 269457912,
+  "max_state": 3,
+  "catches": [],
+  "unwinds": [
+   269274032,
+   269274043,
+   269274054
+  ],
+  "guard": []
+ },
+ "1002f260": {
+  "stub": 269274113,
+  "funcinfo": 269457964,
+  "max_state": 3,
+  "catches": [],
+  "unwinds": [
+   269274080,
+   269274091,
+   269274102
+  ],
+  "guard": []
+ },
+ "1002f2c0": {
+  "stub": 269274171,
+  "funcinfo": 269458032,
+  "max_state": 5,
+  "catches": [],
+  "unwinds": [
+   269274128,
+   269274136,
+   269274144,
+   269274152,
+   269274160
+  ],
+  "guard": []
+ },
+ "1002f550": {
+  "stub": 269274203,
+  "funcinfo": 269458068,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269274192
+  ],
+  "guard": []
+ },
+ "1002f6e0": {
+  "stub": 269274240,
+  "funcinfo": 269458112,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269274224,
+   269274232
+  ],
+  "guard": []
+ },
+ "1002fae0": {
+  "stub": 269274267,
+  "funcinfo": 269458148,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269274256
+  ],
+  "guard": []
+ },
+ "10030240": {
+  "stub": 269274288,
+  "funcinfo": 269458244,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268633576,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268633596,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCComboBox::OnPaint"
+  ]
+ },
+ "10030890": {
+  "stub": 269274344,
+  "funcinfo": 269458352,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269274336
+  ],
+  "guard": []
+ },
+ "10030940": {
+  "stub": 269274368,
+  "funcinfo": 269458448,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268635104,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268635124,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCHtmlButton::OnPaint"
+  ]
+ },
+ "10030d20": {
+  "stub": 269274416,
+  "funcinfo": 269458616,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268636089,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268636109,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCHtmlPushButton::OnPaint"
+  ]
+ },
+ "10031050": {
+  "stub": 269274440,
+  "funcinfo": 269458652,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269274432
+  ],
+  "guard": []
+ },
+ "100311b0": {
+  "stub": 269274701,
+  "funcinfo": 269458856,
+  "max_state": 22,
+  "catches": [],
+  "unwinds": [
+   269274464,
+   269274476,
+   269274488,
+   269274500,
+   269274512,
+   269274521,
+   269274533,
+   269274542,
+   269274554,
+   269274563,
+   269274575,
+   269274584,
+   269274596,
+   269274608,
+   269274620,
+   269274632,
+   269274644,
+   269274656,
+   269274665,
+   269274674,
+   269274683,
+   269274692
+  ],
+  "guard": []
+ },
+ "100327f0": {
+  "stub": 269274776,
+  "funcinfo": 269458972,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269274752,
+   269274764
+  ],
+  "guard": []
+ },
+ "100330e0": {
+  "stub": 269274832,
+  "funcinfo": 269459176,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268644897,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268644917,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCHtmlSliderBar::OnPaint"
+  ]
+ },
+ "100338e0": {
+  "stub": 269274857,
+  "funcinfo": 269459212,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269274848
+  ],
+  "guard": []
+ },
+ "10033bd0": {
+  "stub": 269274889,
+  "funcinfo": 269459248,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269274880
+  ],
+  "guard": []
+ },
+ "10033c70": {
+  "stub": 269274924,
+  "funcinfo": 269459284,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269274912
+  ],
+  "guard": []
+ },
+ "10034840": {
+  "stub": 269275012,
+  "funcinfo": 269459380,
+  "max_state": 4,
+  "catches": [],
+  "unwinds": [
+   269274976,
+   269274985,
+   269274994,
+   269275003
+  ],
+  "guard": []
+ },
+ "10035df0": {
+  "stub": 269275067,
+  "funcinfo": 269459488,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269275056
+  ],
+  "guard": []
+ },
+ "10036b60": {
+  "stub": 269275099,
+  "funcinfo": 269459596,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269275088
+  ],
+  "guard": []
+ },
+ "10036e70": {
+  "stub": 269275129,
+  "funcinfo": 269459632,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269275120
+  ],
+  "guard": []
+ },
+ "10037250": {
+  "stub": 269275192,
+  "funcinfo": 269459756,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269275184
+  ],
+  "guard": []
+ },
+ "100374a0": {
+  "stub": 269275224,
+  "funcinfo": 269459792,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269275216
+  ],
+  "guard": []
+ },
+ "100385f0": {
+  "stub": 269275248,
+  "funcinfo": 269459888,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268666812,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268666832,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCChatListBox::OnPaint"
+  ]
+ },
+ "10039100": {
+  "stub": 269275272,
+  "funcinfo": 269459924,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269275264
+  ],
+  "guard": []
+ },
+ "100399a0": {
+  "stub": 269275296,
+  "funcinfo": 269460020,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268671557,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268671577,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCChatFilterWnd::OnPaint"
+  ]
+ },
+ "1003b6a0": {
+  "stub": 269275572,
+  "funcinfo": 269460288,
+  "max_state": 19,
+  "catches": [],
+  "unwinds": [
+   269275344,
+   269275356,
+   269275368,
+   269275380,
+   269275392,
+   269275404,
+   269275416,
+   269275428,
+   269275440,
+   269275452,
+   269275464,
+   269275476,
+   269275488,
+   269275500,
+   269275512,
+   269275524,
+   269275536,
+   269275548,
+   269275560
+  ],
+  "guard": []
+ },
+ "1003cba0": {
+  "stub": 269275592,
+  "funcinfo": 269460324,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269275584
+  ],
+  "guard": []
+ },
+ "1003cc20": {
+  "stub": 269275638,
+  "funcinfo": 269460368,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269275616,
+   269275624
+  ],
+  "guard": []
+ },
+ "1003d6d0": {
+  "stub": 269275716,
+  "funcinfo": 269460492,
+  "max_state": 3,
+  "catches": [],
+  "unwinds": [
+   269275680,
+   269275688,
+   269275702
+  ],
+  "guard": []
+ },
+ "1003d740": {
+  "stub": 269275728,
+  "funcinfo": 269460588,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268687265,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268687285,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCConsole::OnPaint"
+  ]
+ },
+ "1003e0d0": {
+  "stub": 269275756,
+  "funcinfo": 269460624,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269275744
+  ],
+  "guard": []
+ },
+ "1003e350": {
+  "stub": 269275785,
+  "funcinfo": 269460660,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269275776
+  ],
+  "guard": []
+ },
+ "10040b50": {
+  "stub": 269275864,
+  "funcinfo": 269460776,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269275840,
+   269275852
+  ],
+  "guard": []
+ },
+ "10041880": {
+  "stub": 269275899,
+  "funcinfo": 269460812,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269275888
+  ],
+  "guard": []
+ },
+ "100424e0": {
+  "stub": 269275929,
+  "funcinfo": 269460848,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269275920
+  ],
+  "guard": []
+ },
+ "10042660": {
+  "stub": 269275974,
+  "funcinfo": 269460892,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269275952,
+   269275960
+  ],
+  "guard": []
+ },
+ "100429b0": {
+  "stub": 269275984,
+  "funcinfo": 269460988,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268708679,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268708699,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::NpcSay"
+  ]
+ },
+ "10042b80": {
+  "stub": 269276009,
+  "funcinfo": 269461092,
+  "max_state": 3,
+  "catches": [
+   {
+    "va": 268708918,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268708938,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [
+   269276000
+  ],
+  "guard": [
+   "NConsoleWnd::SendChatMsgToServer"
+  ]
+ },
+ "10042c70": {
+  "stub": 269276032,
+  "funcinfo": 269461188,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268709066,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268709086,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestAuthLogin"
+  ]
+ },
+ "10042d10": {
+  "stub": 269276048,
+  "funcinfo": 269461284,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268709315,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268709335,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestGameStart"
+  ]
+ },
+ "10042e00": {
+  "stub": 269276064,
+  "funcinfo": 269461380,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268709495,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268709515,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestCharacterDelete"
+  ]
+ },
+ "10042eb0": {
+  "stub": 269276080,
+  "funcinfo": 269461476,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268709671,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268709691,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestCharacterRestore"
+  ]
+ },
+ "10042f60": {
+  "stub": 269276096,
+  "funcinfo": 269461572,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268709799,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268709819,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestNewCharacter"
+  ]
+ },
+ "10042fe0": {
+  "stub": 269276112,
+  "funcinfo": 269461668,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268709988,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268710008,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestCharacterCreate"
+  ]
+ },
+ "10043180": {
+  "stub": 269276128,
+  "funcinfo": 269461764,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268710343,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268710363,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestServerList"
+  ]
+ },
+ "10043200": {
+  "stub": 269276144,
+  "funcinfo": 269461860,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268710477,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268710497,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestServerLogin"
+  ]
+ },
+ "10043280": {
+  "stub": 269276160,
+  "funcinfo": 269461956,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268710743,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268710763,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::ReceiveServerList"
+  ]
+ },
+ "10043390": {
+  "stub": 269276176,
+  "funcinfo": 269462052,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268710880,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268710900,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::AddServerList"
+  ]
+ },
+ "10043420": {
+  "stub": 269276192,
+  "funcinfo": 269462148,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268711018,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268711038,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::EndServerList"
+  ]
+ },
+ "100434a0": {
+  "stub": 269276208,
+  "funcinfo": 269462244,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268711239,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268711259,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::ReceiveCharacterInfo"
+  ]
+ },
+ "10043580": {
+  "stub": 269276224,
+  "funcinfo": 269462340,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268711426,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268711446,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::AddCharacterInfo"
+  ]
+ },
+ "100436a0": {
+  "stub": 269276273,
+  "funcinfo": 269462392,
+  "max_state": 3,
+  "catches": [],
+  "unwinds": [
+   269276240,
+   269276252,
+   269276261
+  ],
+  "guard": []
+ },
+ "100438e0": {
+  "stub": 269276288,
+  "funcinfo": 269462524,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268712247,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268712267,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::AddRecommandedData"
+  ]
+ },
+ "10043970": {
+  "stub": 269276304,
+  "funcinfo": 269462620,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268712372,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268712392,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::EndRecommandedData"
+  ]
+ },
+ "100439f0": {
+  "stub": 269276320,
+  "funcinfo": 269462716,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268712503,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268712523,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestItemList"
+  ]
+ },
+ "10043a70": {
+  "stub": 269276336,
+  "funcinfo": 269462812,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268712637,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268712657,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestUseItem"
+  ]
+ },
+ "10043b00": {
+  "stub": 269276352,
+  "funcinfo": 269462908,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268712826,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268712846,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::ReceiveItemList"
+  ]
+ },
+ "10043bb0": {
+  "stub": 269276368,
+  "funcinfo": 269463004,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268712954,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268712974,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::ReceiveUpdateItemList"
+  ]
+ },
+ "10043c50": {
+  "stub": 269276384,
+  "funcinfo": 269463100,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268713117,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268713137,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestEnchantItem"
+  ]
+ },
+ "10043d40": {
+  "stub": 269276400,
+  "funcinfo": 269463196,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268713370,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268713390,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestDestroyItem"
+  ]
+ },
+ "10043de0": {
+  "stub": 269276416,
+  "funcinfo": 269463292,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268713517,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268713537,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestTrade"
+  ]
+ },
+ "10043e60": {
+  "stub": 269276432,
+  "funcinfo": 269463388,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268713658,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268713678,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestAddTradeItem"
+  ]
+ },
+ "10043ef0": {
+  "stub": 269276448,
+  "funcinfo": 269463484,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268713789,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268713809,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestTradeDone"
+  ]
+ },
+ "10043f80": {
+  "stub": 269276464,
+  "funcinfo": 269463580,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268713954,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268713974,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::ReceiveTradeDoneMsg"
+  ]
+ },
+ "10044020": {
+  "stub": 269276480,
+  "funcinfo": 269463676,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268714093,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268714113,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestBuyItem"
+  ]
+ },
+ "100440a0": {
+  "stub": 269276496,
+  "funcinfo": 269463772,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268714221,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268714241,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestSellItem"
+  ]
+ },
+ "10044380": {
+  "stub": 269276512,
+  "funcinfo": 269463868,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268714980,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268715000,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestQuestList"
+  ]
+ },
+ "10044420": {
+  "stub": 269276528,
+  "funcinfo": 269463964,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268715117,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268715137,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestDestroyQuest"
+  ]
+ },
+ "100444a0": {
+  "stub": 269276544,
+  "funcinfo": 269464060,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268715248,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268715268,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::ReceiveQuestList"
+  ]
+ },
+ "10044530": {
+  "stub": 269276560,
+  "funcinfo": 269464156,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268715457,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268715477,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::AddQuestID"
+  ]
+ },
+ "10044600": {
+  "stub": 269276576,
+  "funcinfo": 269464252,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268715645,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268715665,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::AddQuestID"
+  ]
+ },
+ "10044b10": {
+  "stub": 269276592,
+  "funcinfo": 269464348,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268716902,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268716922,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::ReceivePledgeMemberList"
+  ]
+ },
+ "10044ba0": {
+  "stub": 269276608,
+  "funcinfo": 269464444,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268717052,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268717072,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::DeletePledgeMember"
+  ]
+ },
+ "10044c30": {
+  "stub": 269276624,
+  "funcinfo": 269464540,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268717244,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268717264,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::DeleteAllPledgeMember"
+  ]
+ },
+ "100457c0": {
+  "stub": 269276640,
+  "funcinfo": 269464636,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268720144,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268720164,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::ReceivePledgeMemberList"
+  ]
+ },
+ "10045880": {
+  "stub": 269276656,
+  "funcinfo": 269464732,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268720330,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268720350,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::ReceiveQuestList"
+  ]
+ },
+ "10045900": {
+  "stub": 269276672,
+  "funcinfo": 269464828,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268720534,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268720554,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::AddQuestID"
+  ]
+ },
+ "100459d0": {
+  "stub": 269276688,
+  "funcinfo": 269464924,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268720714,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268720734,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::ReceiveItemList"
+  ]
+ },
+ "100464f0": {
+  "stub": 269276704,
+  "funcinfo": 269465056,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268723610,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268723630,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::GetTargetedActor"
+  ]
+ },
+ "10046de0": {
+  "stub": 269276747,
+  "funcinfo": 269465108,
+  "max_state": 3,
+  "catches": [],
+  "unwinds": [
+   269276720,
+   269276729,
+   269276738
+  ],
+  "guard": []
+ },
+ "10046f50": {
+  "stub": 269276768,
+  "funcinfo": 269465204,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268726257,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268726277,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::PawnViewerFunction"
+  ]
+ },
+ "10047330": {
+  "stub": 269276792,
+  "funcinfo": 269465240,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269276784
+  ],
+  "guard": []
+ },
+ "10047c80": {
+  "stub": 269276816,
+  "funcinfo": 269465336,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268729691,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268729711,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::AcceptGameStart"
+  ]
+ },
+ "10047d90": {
+  "stub": 269276832,
+  "funcinfo": 269465432,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268729871,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268729891,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::AcceptCharacterDelete"
+  ]
+ },
+ "10047e40": {
+  "stub": 269276848,
+  "funcinfo": 269465528,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268730106,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268730126,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::AcceptNewCharacter"
+  ]
+ },
+ "10047f30": {
+  "stub": 269276864,
+  "funcinfo": 269465624,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268730254,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268730274,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::AcceptCharacterCreate"
+  ]
+ },
+ "10047fc0": {
+  "stub": 269276880,
+  "funcinfo": 269465720,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268730389,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268730409,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::ReceiveServerClose"
+  ]
+ },
+ "10048200": {
+  "stub": 269276896,
+  "funcinfo": 269465852,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268730992,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268731012,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::RequestDropItem"
+  ]
+ },
+ "10048d70": {
+  "stub": 269276912,
+  "funcinfo": 269465948,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268734351,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268734371,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::ReceivePledgeInfo"
+  ]
+ },
+ "10048fe0": {
+  "stub": 269276928,
+  "funcinfo": 269466044,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268734877,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268734897,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::ReceivePledgeInfoUpdate"
+  ]
+ },
+ "100491f0": {
+  "stub": 269276944,
+  "funcinfo": 269466140,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268735156,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268735176,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::AddPledgeMember"
+  ]
+ },
+ "100492f0": {
+  "stub": 269276960,
+  "funcinfo": 269466236,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268735412,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268735432,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::UpdatePledgeMember"
+  ]
+ },
+ "10049750": {
+  "stub": 269276988,
+  "funcinfo": 269466272,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269276976
+  ],
+  "guard": []
+ },
+ "10049b30": {
+  "stub": 269277008,
+  "funcinfo": 269466368,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268737816,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268737836,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::GMViewReceivePledgeInfo"
+  ]
+ },
+ "10049d60": {
+  "stub": 269277024,
+  "funcinfo": 269466464,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268738078,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268738098,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::AddPledgeMember"
+  ]
+ },
+ "1004a190": {
+  "stub": 269277076,
+  "funcinfo": 269466524,
+  "max_state": 4,
+  "catches": [],
+  "unwinds": [
+   269277040,
+   269277049,
+   269277058,
+   269277067
+  ],
+  "guard": []
+ },
+ "1004cea0": {
+  "stub": 269277088,
+  "funcinfo": 269466620,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268750615,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268750635,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::GetSelectedActor"
+  ]
+ },
+ "1004d6c0": {
+  "stub": 269277104,
+  "funcinfo": 269466716,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268754148,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268754168,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::InitializePawnViewer"
+  ]
+ },
+ "1004ddf0": {
+  "stub": 269277135,
+  "funcinfo": 269466752,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269277120
+  ],
+  "guard": []
+ },
+ "1004de70": {
+  "stub": 269277152,
+  "funcinfo": 269466848,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268757756,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268757776,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::Initialize"
+  ]
+ },
+ "1004eb30": {
+  "stub": 269277168,
+  "funcinfo": 269466944,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268758692,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268758712,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::Finalize"
+  ]
+ },
+ "1004eee0": {
+  "stub": 269277184,
+  "funcinfo": 269467040,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268758852,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268758872,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::Init"
+  ]
+ },
+ "1004ef90": {
+  "stub": 269277200,
+  "funcinfo": 269467136,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268759057,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268759077,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::NSetTimer"
+  ]
+ },
+ "1004f050": {
+  "stub": 269277225,
+  "funcinfo": 269467240,
+  "max_state": 3,
+  "catches": [
+   {
+    "va": 268760475,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268760495,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [
+   269277216
+  ],
+  "guard": [
+   "NConsoleWnd::HookShortCutKey"
+  ]
+ },
+ "1004f8c0": {
+  "stub": 269277248,
+  "funcinfo": 269467336,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268761968,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268761988,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::AddInventoryItem"
+  ]
+ },
+ "1004ffb0": {
+  "stub": 269277264,
+  "funcinfo": 269467468,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268763266,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268763286,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::ReceiveTradeStart"
+  ]
+ },
+ "10051680": {
+  "stub": 269277280,
+  "funcinfo": 269467564,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268769248,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268769268,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::AddQuestItem"
+  ]
+ },
+ "10051820": {
+  "stub": 269277307,
+  "funcinfo": 269467600,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269277296
+  ],
+  "guard": []
+ },
+ "10052790": {
+  "stub": 269277372,
+  "funcinfo": 269467852,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269277360
+  ],
+  "guard": []
+ },
+ "100528f0": {
+  "stub": 269277392,
+  "funcinfo": 269467948,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268774266,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268774286,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::AddPetInventoryItem"
+  ]
+ },
+ "10052e90": {
+  "stub": 269277408,
+  "funcinfo": 269468044,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268775386,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268775406,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::AddQuestItem"
+  ]
+ },
+ "10053010": {
+  "stub": 269277424,
+  "funcinfo": 269468140,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268776128,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268776148,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::AddInventoryItem"
+  ]
+ },
+ "10054760": {
+  "stub": 269277452,
+  "funcinfo": 269468176,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269277440
+  ],
+  "guard": []
+ },
+ "10054c90": {
+  "stub": 269277472,
+  "funcinfo": 269468272,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268782836,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268782856,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::GetIconName"
+  ]
+ },
+ "10054d40": {
+  "stub": 269277488,
+  "funcinfo": 269468368,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268783012,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268783032,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::GetItemName"
+  ]
+ },
+ "100550f0": {
+  "stub": 269277504,
+  "funcinfo": 269468464,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268783956,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268783976,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::InitForPawnViewer"
+  ]
+ },
+ "100551c0": {
+  "stub": 269277556,
+  "funcinfo": 269468524,
+  "max_state": 4,
+  "catches": [],
+  "unwinds": [
+   269277520,
+   269277529,
+   269277538,
+   269277547
+  ],
+  "guard": []
+ },
+ "100557c0": {
+  "stub": 269277637,
+  "funcinfo": 269468664,
+  "max_state": 5,
+  "catches": [],
+  "unwinds": [
+   269277600,
+   269277609,
+   269277623
+  ],
+  "guard": []
+ },
+ "100558c0": {
+  "stub": 269277685,
+  "funcinfo": 269468716,
+  "max_state": 3,
+  "catches": [],
+  "unwinds": [
+   269277648,
+   269277657,
+   269277671
+  ],
+  "guard": []
+ },
+ "10055940": {
+  "stub": 269277696,
+  "funcinfo": 269468812,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268786835,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268786855,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::DispatchWndMsgX"
+  ]
+ },
+ "10055cf0": {
+  "stub": 269277712,
+  "funcinfo": 269468908,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268787218,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268787238,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::Tick"
+  ]
+ },
+ "10055e50": {
+  "stub": 269277728,
+  "funcinfo": 269469004,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268787408,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268787428,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::ConsolePostRender"
+  ]
+ },
+ "10055f20": {
+  "stub": 269277744,
+  "funcinfo": 269469100,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268787851,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268787871,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::MasterConsoleEventProcess"
+  ]
+ },
+ "10056ba0": {
+  "stub": 269277771,
+  "funcinfo": 269469172,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269277760
+  ],
+  "guard": []
+ },
+ "10056fa0": {
+  "stub": 269277800,
+  "funcinfo": 269469208,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269277792
+  ],
+  "guard": []
+ },
+ "10057070": {
+  "stub": 269277835,
+  "funcinfo": 269469244,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269277824
+  ],
+  "guard": []
+ },
+ "10057500": {
+  "stub": 269277856,
+  "funcinfo": 269469340,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268793168,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268793188,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NConsoleWnd::DispatchWndMsg"
+  ]
+ },
+ "10057a80": {
+  "stub": 269277912,
+  "funcinfo": 269469412,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269277904
+  ],
+  "guard": []
+ },
+ "10057bb0": {
+  "stub": 269277960,
+  "funcinfo": 269469456,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269277936,
+   269277948
+  ],
+  "guard": []
+ },
+ "10058260": {
+  "stub": 269278008,
+  "funcinfo": 269469500,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269277984,
+   269277996
+  ],
+  "guard": []
+ },
+ "1005a830": {
+  "stub": 269278107,
+  "funcinfo": 269469680,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269278096
+  ],
+  "guard": []
+ },
+ "1005a930": {
+  "stub": 269278139,
+  "funcinfo": 269469716,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269278128
+  ],
+  "guard": []
+ },
+ "1005aea0": {
+  "stub": 269278168,
+  "funcinfo": 269469752,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269278160
+  ],
+  "guard": []
+ },
+ "1005b880": {
+  "stub": 269278201,
+  "funcinfo": 269469788,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269278192
+  ],
+  "guard": []
+ },
+ "1005b9a0": {
+  "stub": 269278235,
+  "funcinfo": 269469824,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269278224
+  ],
+  "guard": []
+ },
+ "1005c7e0": {
+  "stub": 269278288,
+  "funcinfo": 269470064,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268814660,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268814680,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCGMInventoryWnd::OnPaint"
+  ]
+ },
+ "1005cac0": {
+  "stub": 269278312,
+  "funcinfo": 269470100,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269278304
+  ],
+  "guard": []
+ },
+ "1005e360": {
+  "stub": 269278376,
+  "funcinfo": 269470244,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269278368
+  ],
+  "guard": []
+ },
+ "1005ea00": {
+  "stub": 269278408,
+  "funcinfo": 269470280,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269278400
+  ],
+  "guard": []
+ },
+ "1005eb10": {
+  "stub": 269278440,
+  "funcinfo": 269470316,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269278432
+  ],
+  "guard": []
+ },
+ "1005fce0": {
+  "stub": 269278473,
+  "funcinfo": 269470424,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269278464
+  ],
+  "guard": []
+ },
+ "1005fd70": {
+  "stub": 269278518,
+  "funcinfo": 269470468,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269278496,
+   269278504
+  ],
+  "guard": []
+ },
+ "1005fe00": {
+  "stub": 269278536,
+  "funcinfo": 269470504,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269278528
+  ],
+  "guard": []
+ },
+ "1005fe80": {
+  "stub": 269278582,
+  "funcinfo": 269470548,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269278560,
+   269278568
+  ],
+  "guard": []
+ },
+ "1005ff60": {
+  "stub": 269278600,
+  "funcinfo": 269470584,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269278592
+  ],
+  "guard": []
+ },
+ "10060000": {
+  "stub": 269278632,
+  "funcinfo": 269470620,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269278624
+  ],
+  "guard": []
+ },
+ "10060450": {
+  "stub": 269278664,
+  "funcinfo": 269470656,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269278656
+  ],
+  "guard": []
+ },
+ "10060850": {
+  "stub": 269278706,
+  "funcinfo": 269470700,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269278688,
+   269278697
+  ],
+  "guard": []
+ },
+ "10060e60": {
+  "stub": 269278744,
+  "funcinfo": 269470744,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269278720,
+   269278732
+  ],
+  "guard": []
+ },
+ "10062370": {
+  "stub": 269278792,
+  "funcinfo": 269470788,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269278768,
+   269278780
+  ],
+  "guard": []
+ },
+ "10062a60": {
+  "stub": 269278840,
+  "funcinfo": 269470832,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269278816,
+   269278828
+  ],
+  "guard": []
+ },
+ "100642d0": {
+  "stub": 269278864,
+  "funcinfo": 269470928,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268846699,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268846719,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCEquipItemWnd::OnPaint"
+  ]
+ },
+ "100655f0": {
+  "stub": 269278912,
+  "funcinfo": 269471168,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268851063,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268851083,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCItemWnd::OnPaint"
+  ]
+ },
+ "10065a00": {
+  "stub": 269278936,
+  "funcinfo": 269471204,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269278928
+  ],
+  "guard": []
+ },
+ "10065a50": {
+  "stub": 269278960,
+  "funcinfo": 269471300,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268852653,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268852673,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCInventoryWnd::OnPaint"
+  ]
+ },
+ "100661a0": {
+  "stub": 269278976,
+  "funcinfo": 269471396,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268854135,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268854155,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCEquipItemWnd::OnLButtonDown"
+  ]
+ },
+ "10066530": {
+  "stub": 269279028,
+  "funcinfo": 269471448,
+  "max_state": 3,
+  "catches": [],
+  "unwinds": [
+   269278992,
+   269279004,
+   269279016
+  ],
+  "guard": []
+ },
+ "10067690": {
+  "stub": 269279112,
+  "funcinfo": 269471632,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269279088,
+   269279100
+  ],
+  "guard": []
+ },
+ "10068910": {
+  "stub": 269279180,
+  "funcinfo": 269471704,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269279168
+  ],
+  "guard": []
+ },
+ "10068a70": {
+  "stub": 269279208,
+  "funcinfo": 269471740,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269279200
+  ],
+  "guard": []
+ },
+ "10069470": {
+  "stub": 269279232,
+  "funcinfo": 269471908,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268868511,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268868531,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnSelectWnd::OnPaint"
+  ]
+ },
+ "10069ee0": {
+  "stub": 269279280,
+  "funcinfo": 269472040,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268869658,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268869678,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCLobbyWnd::OnPaint"
+  ]
+ },
+ "1006af30": {
+  "stub": 269279296,
+  "funcinfo": 269472172,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268873812,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268873832,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCAuthWnd::OnPaint"
+  ]
+ },
+ "1006b200": {
+  "stub": 269279356,
+  "funcinfo": 269472244,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269279344
+  ],
+  "guard": []
+ },
+ "1006b9a0": {
+  "stub": 269279376,
+  "funcinfo": 269472340,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268876411,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268876431,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCLoginWnd::OnPaint"
+  ]
+ },
+ "1006bbd0": {
+  "stub": 269279416,
+  "funcinfo": 269472384,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269279392,
+   269279404
+  ],
+  "guard": []
+ },
+ "1006d380": {
+  "stub": 269279440,
+  "funcinfo": 269472480,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268883408,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268883428,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCTrainListBox::OnPaint"
+  ]
+ },
+ "1006d660": {
+  "stub": 269279464,
+  "funcinfo": 269472516,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269279456
+  ],
+  "guard": []
+ },
+ "1006d6f0": {
+  "stub": 269279488,
+  "funcinfo": 269472612,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268883929,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268883949,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCVIPShopItemListWnd::OnPaint"
+  ]
+ },
+ "1006dce0": {
+  "stub": 269279545,
+  "funcinfo": 269472720,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269279536
+  ],
+  "guard": []
+ },
+ "1006e700": {
+  "stub": 269279577,
+  "funcinfo": 269472756,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269279568
+  ],
+  "guard": []
+ },
+ "1006e790": {
+  "stub": 269279614,
+  "funcinfo": 269472864,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269279600
+  ],
+  "guard": []
+ },
+ "1006e870": {
+  "stub": 269279654,
+  "funcinfo": 269472908,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269279632,
+   269279640
+  ],
+  "guard": []
+ },
+ "1006ea80": {
+  "stub": 269279686,
+  "funcinfo": 269472952,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269279664,
+   269279672
+  ],
+  "guard": []
+ },
+ "1006eb40": {
+  "stub": 269279718,
+  "funcinfo": 269472996,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269279696,
+   269279704
+  ],
+  "guard": []
+ },
+ "1006efa0": {
+  "stub": 269279739,
+  "funcinfo": 269473032,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269279728
+  ],
+  "guard": []
+ },
+ "1006f0c0": {
+  "stub": 269279760,
+  "funcinfo": 269473128,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268890434,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268890454,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCMSView_InvenItemWnd::OnLButtonDblClick"
+  ]
+ },
+ "1006f210": {
+  "stub": 269279776,
+  "funcinfo": 269473224,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268892676,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268892696,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCMSViewrWnd::AddAllCharacter"
+  ]
+ },
+ "1006fa40": {
+  "stub": 269279792,
+  "funcinfo": 269473320,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268892820,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268892840,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCMSViewrWnd::HideWindow"
+  ]
+ },
+ "1006fad0": {
+  "stub": 269279808,
+  "funcinfo": 269473416,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268892978,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268892998,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCMSViewrWnd::ShowWindow"
+  ]
+ },
+ "1006fb70": {
+  "stub": 269279824,
+  "funcinfo": 269473512,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268893146,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268893166,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCMSViewrWnd::AddItem"
+  ]
+ },
+ "1006fdc0": {
+  "stub": 269279840,
+  "funcinfo": 269473680,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268894006,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268894026,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCMSViewrWnd::OnPaint"
+  ]
+ },
+ "1006ff70": {
+  "stub": 269279856,
+  "funcinfo": 269473776,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268894403,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268894423,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCMSViewrWnd::OnDestroy"
+  ]
+ },
+ "100701d0": {
+  "stub": 269279904,
+  "funcinfo": 269473908,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268895280,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268895300,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCMSView_CharacterSelectWnd::OnCreate"
+  ]
+ },
+ "10070470": {
+  "stub": 269279920,
+  "funcinfo": 269474004,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268895854,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268895874,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCMSView_CharacterSelectWnd::OnPaint"
+  ]
+ },
+ "100706a0": {
+  "stub": 269279936,
+  "funcinfo": 269474100,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268896757,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268896777,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCMSView_CharacterSelectWnd::OnNameComboBox"
+  ]
+ },
+ "10070a40": {
+  "stub": 269279952,
+  "funcinfo": 269474196,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268897025,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268897045,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCMSView_CharacterSelectWnd::OnAniNameComboBox"
+  ]
+ },
+ "10070b80": {
+  "stub": 269279968,
+  "funcinfo": 269474292,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268897465,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268897485,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCMSView_InvenItemWnd::OnRButtonDown"
+  ]
+ },
+ "10070d40": {
+  "stub": 269279992,
+  "funcinfo": 269474328,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269279984
+  ],
+  "guard": []
+ },
+ "10070dd0": {
+  "stub": 269280024,
+  "funcinfo": 269474432,
+  "max_state": 3,
+  "catches": [
+   {
+    "va": 268898288,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268898308,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [
+   269280016
+  ],
+  "guard": [
+   "NCMSViewrWnd::AddAllItem"
+  ]
+ },
+ "10071580": {
+  "stub": 269280080,
+  "funcinfo": 269474600,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268902280,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268902300,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCMSViewrWnd::OnCreate"
+  ]
+ },
+ "10072030": {
+  "stub": 269280105,
+  "funcinfo": 269474636,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269280096
+  ],
+  "guard": []
+ },
+ "10072360": {
+  "stub": 269280140,
+  "funcinfo": 269474672,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269280128
+  ],
+  "guard": []
+ },
+ "100729b0": {
+  "stub": 269280160,
+  "funcinfo": 269474768,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268905655,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268905675,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCItemWnd::OnPaint"
+  ]
+ },
+ "10072f60": {
+  "stub": 269280194,
+  "funcinfo": 269474880,
+  "max_state": 4,
+  "catches": [
+   {
+    "va": 268906838,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268906858,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [
+   269280176,
+   269280185
+  ],
+  "guard": [
+   "NCSkillItemWnd::OnLButtonUp"
+  ]
+ },
+ "10073200": {
+  "stub": 269280216,
+  "funcinfo": 269474916,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269280208
+  ],
+  "guard": []
+ },
+ "10073340": {
+  "stub": 269280248,
+  "funcinfo": 269474952,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269280240
+  ],
+  "guard": []
+ },
+ "100734f0": {
+  "stub": 269280281,
+  "funcinfo": 269474988,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269280272
+  ],
+  "guard": []
+ },
+ "10073890": {
+  "stub": 269280326,
+  "funcinfo": 269475032,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269280304,
+   269280315
+  ],
+  "guard": []
+ },
+ "10074cd0": {
+  "stub": 269280377,
+  "funcinfo": 269475192,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269280368
+  ],
+  "guard": []
+ },
+ "10075350": {
+  "stub": 269280443,
+  "funcinfo": 269475264,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269280432
+  ],
+  "guard": []
+ },
+ "100757d0": {
+  "stub": 269280473,
+  "funcinfo": 269475300,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269280464
+  ],
+  "guard": []
+ },
+ "10075a20": {
+  "stub": 269280504,
+  "funcinfo": 269475336,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269280496
+  ],
+  "guard": []
+ },
+ "10075bc0": {
+  "stub": 269280537,
+  "funcinfo": 269475372,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269280528
+  ],
+  "guard": []
+ },
+ "10075ef0": {
+  "stub": 269280568,
+  "funcinfo": 269475408,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269280560
+  ],
+  "guard": []
+ },
+ "100765f0": {
+  "stub": 269280603,
+  "funcinfo": 269475444,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269280592
+  ],
+  "guard": []
+ },
+ "10078060": {
+  "stub": 269280696,
+  "funcinfo": 269475804,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269280688
+  ],
+  "guard": []
+ },
+ "10078660": {
+  "stub": 269280732,
+  "funcinfo": 269475840,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269280720
+  ],
+  "guard": []
+ },
+ "100792e0": {
+  "stub": 269280761,
+  "funcinfo": 269475876,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269280752
+  ],
+  "guard": []
+ },
+ "10079410": {
+  "stub": 269280806,
+  "funcinfo": 269475920,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269280784,
+   269280792
+  ],
+  "guard": []
+ },
+ "10079740": {
+  "stub": 269280824,
+  "funcinfo": 269475956,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269280816
+  ],
+  "guard": []
+ },
+ "10079790": {
+  "stub": 269280848,
+  "funcinfo": 269476052,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268933259,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268933279,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNoticeInfoWnd::OnPaint"
+  ]
+ },
+ "10079be0": {
+  "stub": 269280864,
+  "funcinfo": 269476184,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268934272,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268934292,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNoticeWnd::OnPaint"
+  ]
+ },
+ "1007a090": {
+  "stub": 269280912,
+  "funcinfo": 269476316,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268935472,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268935492,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNoticeWnd::OnPaint"
+  ]
+ },
+ "1007a210": {
+  "stub": 269280928,
+  "funcinfo": 269476412,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268935826,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268935846,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNpcView_InvenItemWnd::OnLButtonDblClick"
+  ]
+ },
+ "1007a340": {
+  "stub": 269280944,
+  "funcinfo": 269476508,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268936084,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268936104,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNpcViewrWnd::HideWindow"
+  ]
+ },
+ "1007a3d0": {
+  "stub": 269280960,
+  "funcinfo": 269476604,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268936242,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268936262,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNpcViewrWnd::ShowWindow"
+  ]
+ },
+ "1007a470": {
+  "stub": 269280976,
+  "funcinfo": 269476700,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268936400,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268936420,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNpcViewrWnd::AddItem"
+  ]
+ },
+ "1007a570": {
+  "stub": 269280992,
+  "funcinfo": 269476796,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268936627,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268936647,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNpcView_CharacterSelect_List::OnCreate"
+  ]
+ },
+ "1007a5f0": {
+  "stub": 269281008,
+  "funcinfo": 269476892,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268936761,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268936781,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNpcView_CharacterSelect_List::OnPaint"
+  ]
+ },
+ "1007a670": {
+  "stub": 269281024,
+  "funcinfo": 269476988,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268936883,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268936903,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNpcView_CharacterSelect_List::OnDestroy"
+  ]
+ },
+ "1007a7f0": {
+  "stub": 269281040,
+  "funcinfo": 269477084,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268937575,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268937595,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNpcView_InvenItemWnd::OnRButtonDown"
+  ]
+ },
+ "1007aab0": {
+  "stub": 269281056,
+  "funcinfo": 269477252,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268938118,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268938138,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNpcViewrWnd::OnPaint"
+  ]
+ },
+ "1007abc0": {
+  "stub": 269281072,
+  "funcinfo": 269477348,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268938427,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268938447,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNpcViewrWnd::OnDestroy"
+  ]
+ },
+ "1007acf0": {
+  "stub": 269281088,
+  "funcinfo": 269477444,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268939603,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268939623,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNpcView_CharacterSelect_List::OnLButtonDblClick"
+  ]
+ },
+ "1007b190": {
+  "stub": 269281104,
+  "funcinfo": 269477540,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268939764,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268939784,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNpcView_CharacterSelect_List::ToggleNames"
+  ]
+ },
+ "1007b2e0": {
+  "stub": 269281152,
+  "funcinfo": 269477672,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268940197,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268940217,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNpcView_CharacterSelectWnd::OnAniNameCombo"
+  ]
+ },
+ "1007b610": {
+  "stub": 269281168,
+  "funcinfo": 269477768,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268941252,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268941272,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNpcView_CharacterSelectWnd::OnPaint"
+  ]
+ },
+ "1007bee0": {
+  "stub": 269281192,
+  "funcinfo": 269477804,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269281184
+  ],
+  "guard": []
+ },
+ "1007bf70": {
+  "stub": 269281224,
+  "funcinfo": 269477908,
+  "max_state": 3,
+  "catches": [
+   {
+    "va": 268943675,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268943695,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [
+   269281216
+  ],
+  "guard": [
+   "NCNpcViewrWnd::AddAllCharacter"
+  ]
+ },
+ "1007c170": {
+  "stub": 269281256,
+  "funcinfo": 269478012,
+  "max_state": 3,
+  "catches": [
+   {
+    "va": 268944179,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268944199,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [
+   269281248
+  ],
+  "guard": [
+   "NCNpcViewrWnd::AddAllItem"
+  ]
+ },
+ "1007c370": {
+  "stub": 269281288,
+  "funcinfo": 269478116,
+  "max_state": 3,
+  "catches": [
+   {
+    "va": 268944787,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268944807,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [
+   269281280
+  ],
+  "guard": [
+   "NCNpcViewrWnd::OnSearchBtnClick"
+  ]
+ },
+ "1007c620": {
+  "stub": 269281320,
+  "funcinfo": 269478152,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269281312
+  ],
+  "guard": []
+ },
+ "1007c6a0": {
+  "stub": 269281344,
+  "funcinfo": 269478248,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268947360,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268947380,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNpcView_CharacterSelectWnd::OnCreate"
+  ]
+ },
+ "1007cfe0": {
+  "stub": 269281368,
+  "funcinfo": 269478284,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269281360
+  ],
+  "guard": []
+ },
+ "1007d260": {
+  "stub": 269281392,
+  "funcinfo": 269478380,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268949413,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268949433,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNpcViewrWnd::OnCreate"
+  ]
+ },
+ "1007dff0": {
+  "stub": 269281440,
+  "funcinfo": 269478512,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268953275,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268953295,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCVideoOptionWnd::OnPaint"
+  ]
+ },
+ "10080410": {
+  "stub": 269281456,
+  "funcinfo": 269478644,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268961095,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268961115,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCOptionWnd::OnPaint"
+  ]
+ },
+ "10080a20": {
+  "stub": 269281472,
+  "funcinfo": 269478776,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268963241,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268963261,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCOptionWnd::OnPaint"
+  ]
+ },
+ "10081df0": {
+  "stub": 269281488,
+  "funcinfo": 269478908,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268967578,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268967598,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCOptionWnd::OnPaint"
+  ]
+ },
+ "100841c0": {
+  "stub": 269281536,
+  "funcinfo": 269479040,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268976778,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268976798,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnInfoWnd::OnPaint"
+  ]
+ },
+ "100843b0": {
+  "stub": 269281552,
+  "funcinfo": 269479172,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268977535,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268977555,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnSetupWnd::OnPaint"
+  ]
+ },
+ "10085310": {
+  "stub": 269281592,
+  "funcinfo": 269479224,
+  "max_state": 3,
+  "catches": [],
+  "unwinds": [
+   269281568,
+   269281576,
+   269281584
+  ],
+  "guard": []
+ },
+ "10085db0": {
+  "stub": 269281616,
+  "funcinfo": 269479356,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268983855,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268983875,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnCreateWnd::OnPaint"
+  ]
+ },
+ "10086130": {
+  "stub": 269281640,
+  "funcinfo": 269479392,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269281632
+  ],
+  "guard": []
+ },
+ "100863f0": {
+  "stub": 269281675,
+  "funcinfo": 269479428,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269281664
+  ],
+  "guard": []
+ },
+ "10087420": {
+  "stub": 269281728,
+  "funcinfo": 269479612,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268989602,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268989622,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnView_InvenItemWnd::OnLButtonDblClick"
+  ]
+ },
+ "10087630": {
+  "stub": 269281744,
+  "funcinfo": 269479708,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268992036,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268992056,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnViewrWnd::AddAllCharacter"
+  ]
+ },
+ "10087f10": {
+  "stub": 269281760,
+  "funcinfo": 269479804,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268992415,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268992435,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnViewrWnd::Clear"
+  ]
+ },
+ "10087fd0": {
+  "stub": 269281776,
+  "funcinfo": 269479900,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268992548,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268992568,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnViewrWnd::HideWindow"
+  ]
+ },
+ "10088060": {
+  "stub": 269281803,
+  "funcinfo": 269480004,
+  "max_state": 3,
+  "catches": [
+   {
+    "va": 268992779,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268992799,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [
+   269281792
+  ],
+  "guard": [
+   "NCPawnViewrWnd::AddItem"
+  ]
+ },
+ "10088450": {
+  "stub": 269281824,
+  "funcinfo": 269480100,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268993683,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268993703,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnView_CharacterSelect_List::OnCreate"
+  ]
+ },
+ "100884d0": {
+  "stub": 269281840,
+  "funcinfo": 269480196,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268993817,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268993837,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnView_CharacterSelect_List::OnPaint"
+  ]
+ },
+ "10088550": {
+  "stub": 269281856,
+  "funcinfo": 269480292,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268993939,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268993959,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnView_CharacterSelect_List::OnDestroy"
+  ]
+ },
+ "100888d0": {
+  "stub": 269281904,
+  "funcinfo": 269480424,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268995100,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268995120,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnView_InvenItemWnd::OnRButtonDown"
+  ]
+ },
+ "10088c10": {
+  "stub": 269281920,
+  "funcinfo": 269480592,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268995878,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268995898,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnViewrWnd::OnPaint"
+  ]
+ },
+ "10088dd0": {
+  "stub": 269281936,
+  "funcinfo": 269480688,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268996597,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268996617,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnViewrWnd::OnDestroy"
+  ]
+ },
+ "10089030": {
+  "stub": 269281952,
+  "funcinfo": 269480784,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268996867,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268996887,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnViewrWnd::ShowWindow"
+  ]
+ },
+ "10089210": {
+  "stub": 269281968,
+  "funcinfo": 269480916,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268997330,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268997350,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCCharacterSelectWnd::OnPaint"
+  ]
+ },
+ "10089380": {
+  "stub": 269281984,
+  "funcinfo": 269481012,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268997800,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268997820,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnView_InvenTextWnd::OnInvenItemList"
+  ]
+ },
+ "100894e0": {
+  "stub": 269282000,
+  "funcinfo": 269481108,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 268998121,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 268998141,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnView_InvenTextWnd::OnCreate"
+  ]
+ },
+ "10089cb0": {
+  "stub": 269282016,
+  "funcinfo": 269481240,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269000067,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269000087,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnViewr_MixAnimWnd::OnPaint"
+  ]
+ },
+ "10089f10": {
+  "stub": 269282032,
+  "funcinfo": 269481336,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269000714,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269000734,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnView_CharacterSelect_List::OnLButtonDblClick"
+  ]
+ },
+ "1008b7d0": {
+  "stub": 269282048,
+  "funcinfo": 269481468,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269007587,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269007607,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnViewr_HairChangeWnd::OnPaint"
+  ]
+ },
+ "1008bc10": {
+  "stub": 269282064,
+  "funcinfo": 269481564,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269008639,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269008659,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnViewr_Simulator::OnPaint"
+  ]
+ },
+ "1008c3c0": {
+  "stub": 269282088,
+  "funcinfo": 269481600,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269282080
+  ],
+  "guard": []
+ },
+ "1008c7a0": {
+  "stub": 269282120,
+  "funcinfo": 269481636,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269282112
+  ],
+  "guard": []
+ },
+ "1008c830": {
+  "stub": 269282152,
+  "funcinfo": 269481740,
+  "max_state": 3,
+  "catches": [
+   {
+    "va": 269011488,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269011508,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [
+   269282144
+  ],
+  "guard": [
+   "NCPawnViewrWnd::AddAllItem"
+  ]
+ },
+ "1008ca60": {
+  "stub": 269282187,
+  "funcinfo": 269481776,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269282176
+  ],
+  "guard": []
+ },
+ "1008cd20": {
+  "stub": 269282208,
+  "funcinfo": 269481872,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269013026,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269013046,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnView_CharacterSelectWnd::OnNameComboBox"
+  ]
+ },
+ "1008d0c0": {
+  "stub": 269282232,
+  "funcinfo": 269481908,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269282224
+  ],
+  "guard": []
+ },
+ "1008d150": {
+  "stub": 269282264,
+  "funcinfo": 269481944,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269282256
+  ],
+  "guard": []
+ },
+ "1008d960": {
+  "stub": 269282288,
+  "funcinfo": 269482040,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269016180,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269016200,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnView_CharacterSelectWnd::OnCreate"
+  ]
+ },
+ "1008dcb0": {
+  "stub": 269282312,
+  "funcinfo": 269482076,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269282304
+  ],
+  "guard": []
+ },
+ "1008dd30": {
+  "stub": 269282336,
+  "funcinfo": 269482156,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269016608,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": []
+ },
+ "1008e0f0": {
+  "stub": 269282360,
+  "funcinfo": 269482192,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269282352
+  ],
+  "guard": []
+ },
+ "1008e190": {
+  "stub": 269282406,
+  "funcinfo": 269482236,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269282384,
+   269282392
+  ],
+  "guard": []
+ },
+ "1008e230": {
+  "stub": 269282416,
+  "funcinfo": 269482332,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269020723,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269020743,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPawnViewrWnd::OnCreate"
+  ]
+ },
+ "1008ef60": {
+  "stub": 269282456,
+  "funcinfo": 269482376,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269282432,
+   269282444
+  ],
+  "guard": []
+ },
+ "1008f650": {
+  "stub": 269282504,
+  "funcinfo": 269482420,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269282480,
+   269282492
+  ],
+  "guard": []
+ },
+ "10091d10": {
+  "stub": 269282569,
+  "funcinfo": 269482564,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269282560
+  ],
+  "guard": []
+ },
+ "10093a10": {
+  "stub": 269282616,
+  "funcinfo": 269482788,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269282592,
+   269282604
+  ],
+  "guard": []
+ },
+ "10094220": {
+  "stub": 269282680,
+  "funcinfo": 269482860,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269282672
+  ],
+  "guard": []
+ },
+ "100945b0": {
+  "stub": 269282727,
+  "funcinfo": 269482904,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269282704,
+   269282715
+  ],
+  "guard": []
+ },
+ "10094860": {
+  "stub": 269282784,
+  "funcinfo": 269483072,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269044101,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269044121,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCChatListBox::OnPaint"
+  ]
+ },
+ "10094be0": {
+  "stub": 269282822,
+  "funcinfo": 269483116,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269282800,
+   269282811
+  ],
+  "guard": []
+ },
+ "10094e90": {
+  "stub": 269282840,
+  "funcinfo": 269483152,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269282832
+  ],
+  "guard": []
+ },
+ "100956a0": {
+  "stub": 269282888,
+  "funcinfo": 269483196,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269282864,
+   269282876
+  ],
+  "guard": []
+ },
+ "10096790": {
+  "stub": 269282936,
+  "funcinfo": 269483240,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269282912,
+   269282924
+  ],
+  "guard": []
+ },
+ "100983a0": {
+  "stub": 269282960,
+  "funcinfo": 269483336,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269059629,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269059649,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCItemWnd::OnPaint"
+  ]
+ },
+ "10098960": {
+  "stub": 269282984,
+  "funcinfo": 269483372,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269282976
+  ],
+  "guard": []
+ },
+ "10098f90": {
+  "stub": 269283032,
+  "funcinfo": 269483416,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269283008,
+   269283020
+  ],
+  "guard": []
+ },
+ "100994c0": {
+  "stub": 269283065,
+  "funcinfo": 269483452,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269283056
+  ],
+  "guard": []
+ },
+ "10099680": {
+  "stub": 269283099,
+  "funcinfo": 269483488,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269283088
+  ],
+  "guard": []
+ },
+ "10099780": {
+  "stub": 269283131,
+  "funcinfo": 269483524,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269283120
+  ],
+  "guard": []
+ },
+ "1009ae80": {
+  "stub": 269283208,
+  "funcinfo": 269483676,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269283184,
+   269283196
+  ],
+  "guard": []
+ },
+ "1009bf30": {
+  "stub": 269283256,
+  "funcinfo": 269483720,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269283232,
+   269283244
+  ],
+  "guard": []
+ },
+ "1009da70": {
+  "stub": 269283288,
+  "funcinfo": 269483756,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269283280
+  ],
+  "guard": []
+ },
+ "1009e020": {
+  "stub": 269283336,
+  "funcinfo": 269483800,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269283312,
+   269283324
+  ],
+  "guard": []
+ },
+ "1009e3f0": {
+  "stub": 269283369,
+  "funcinfo": 269483836,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269283360
+  ],
+  "guard": []
+ },
+ "1009e560": {
+  "stub": 269283403,
+  "funcinfo": 269483872,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269283392
+  ],
+  "guard": []
+ },
+ "1009e660": {
+  "stub": 269283435,
+  "funcinfo": 269483908,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269283424
+  ],
+  "guard": []
+ },
+ "1009ef00": {
+  "stub": 269283464,
+  "funcinfo": 269483944,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269283456
+  ],
+  "guard": []
+ },
+ "1009fef0": {
+  "stub": 269283506,
+  "funcinfo": 269483988,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269283488,
+   269283497
+  ],
+  "guard": []
+ },
+ "100a0070": {
+  "stub": 269283544,
+  "funcinfo": 269484032,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269283520,
+   269283532
+  ],
+  "guard": []
+ },
+ "100a0680": {
+  "stub": 269283568,
+  "funcinfo": 269484128,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269092753,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269092773,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCQuestInfoWnd::OnPaint"
+  ]
+ },
+ "100a0b40": {
+  "stub": 269283584,
+  "funcinfo": 269484224,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269094087,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269094107,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCQuestItemWnd::OnPaint"
+  ]
+ },
+ "100a1130": {
+  "stub": 269283600,
+  "funcinfo": 269484320,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269095584,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269095604,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCQuestWnd::OnPaint"
+  ]
+ },
+ "100a1490": {
+  "stub": 269283627,
+  "funcinfo": 269484356,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269283616
+  ],
+  "guard": []
+ },
+ "100a1660": {
+  "stub": 269283657,
+  "funcinfo": 269484392,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269283648
+  ],
+  "guard": []
+ },
+ "100a1760": {
+  "stub": 269283702,
+  "funcinfo": 269484436,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269283680,
+   269283688
+  ],
+  "guard": []
+ },
+ "100a1810": {
+  "stub": 269283720,
+  "funcinfo": 269484472,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269283712
+  ],
+  "guard": []
+ },
+ "100a1df0": {
+  "stub": 269283766,
+  "funcinfo": 269484516,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269283744,
+   269283752
+  ],
+  "guard": []
+ },
+ "100a23d0": {
+  "stub": 269283784,
+  "funcinfo": 269484552,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269283776
+  ],
+  "guard": []
+ },
+ "100a2420": {
+  "stub": 269283808,
+  "funcinfo": 269484648,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269100234,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269100254,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCServerSelectWnd::OnPaint"
+  ]
+ },
+ "100a2500": {
+  "stub": 269283838,
+  "funcinfo": 269484684,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269283824
+  ],
+  "guard": []
+ },
+ "100a2b30": {
+  "stub": 269283865,
+  "funcinfo": 269484720,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269283856
+  ],
+  "guard": []
+ },
+ "100a3370": {
+  "stub": 269283896,
+  "funcinfo": 269484756,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269283888
+  ],
+  "guard": []
+ },
+ "100a39f0": {
+  "stub": 269283944,
+  "funcinfo": 269484800,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269283920,
+   269283932
+  ],
+  "guard": []
+ },
+ "100a4540": {
+  "stub": 269283992,
+  "funcinfo": 269484844,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269283968,
+   269283980
+  ],
+  "guard": []
+ },
+ "100a5e50": {
+  "stub": 269284024,
+  "funcinfo": 269484880,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269284016
+  ],
+  "guard": []
+ },
+ "100a6550": {
+  "stub": 269284066,
+  "funcinfo": 269484924,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269284048,
+   269284057
+  ],
+  "guard": []
+ },
+ "100a69b0": {
+  "stub": 269284091,
+  "funcinfo": 269484960,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269284080
+  ],
+  "guard": []
+ },
+ "100a6ab0": {
+  "stub": 269284123,
+  "funcinfo": 269484996,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269284112
+  ],
+  "guard": []
+ },
+ "100a74d0": {
+  "stub": 269284152,
+  "funcinfo": 269485032,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269284144
+  ],
+  "guard": []
+ },
+ "100a8010": {
+  "stub": 269284190,
+  "funcinfo": 269485068,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269284176
+  ],
+  "guard": []
+ },
+ "100a9a20": {
+  "stub": 269284262,
+  "funcinfo": 269485144,
+  "max_state": 6,
+  "catches": [],
+  "unwinds": [
+   269284208,
+   269284217,
+   269284226,
+   269284235,
+   269284244,
+   269284253
+  ],
+  "guard": []
+ },
+ "100aa310": {
+  "stub": 269284317,
+  "funcinfo": 269485212,
+  "max_state": 5,
+  "catches": [],
+  "unwinds": [
+   269284272,
+   269284281,
+   269284290,
+   269284299,
+   269284308
+  ],
+  "guard": []
+ },
+ "100aab00": {
+  "stub": 269284347,
+  "funcinfo": 269485248,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269284336
+  ],
+  "guard": []
+ },
+ "100aaf30": {
+  "stub": 269284379,
+  "funcinfo": 269485284,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269284368
+  ],
+  "guard": []
+ },
+ "100ab940": {
+  "stub": 269284432,
+  "funcinfo": 269485468,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269139004,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269139024,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCListCtrl::OnPaint"
+  ]
+ },
+ "100ac730": {
+  "stub": 269284457,
+  "funcinfo": 269485504,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269284448
+  ],
+  "guard": []
+ },
+ "100accd0": {
+  "stub": 269284530,
+  "funcinfo": 269485620,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269284512,
+   269284521
+  ],
+  "guard": []
+ },
+ "100ad0a0": {
+  "stub": 269284566,
+  "funcinfo": 269485664,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269284544,
+   269284555
+  ],
+  "guard": []
+ },
+ "100ad570": {
+  "stub": 269284617,
+  "funcinfo": 269485788,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269284608
+  ],
+  "guard": []
+ },
+ "100ad660": {
+  "stub": 269284648,
+  "funcinfo": 269485824,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269284640
+  ],
+  "guard": []
+ },
+ "100ae010": {
+  "stub": 269284713,
+  "funcinfo": 269485948,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269284704
+  ],
+  "guard": []
+ },
+ "100ae0f0": {
+  "stub": 269284748,
+  "funcinfo": 269485984,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269284736
+  ],
+  "guard": []
+ },
+ "100ae530": {
+  "stub": 269284777,
+  "funcinfo": 269486020,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269284768
+  ],
+  "guard": []
+ },
+ "100aed40": {
+  "stub": 269284832,
+  "funcinfo": 269486152,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269152084,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269152104,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCAbnormalStatusWnd::OnPaint"
+  ]
+ },
+ "100af320": {
+  "stub": 269284848,
+  "funcinfo": 269486248,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269153183,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269153203,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCStatusWnd::OnPaint"
+  ]
+ },
+ "100af7c0": {
+  "stub": 269284896,
+  "funcinfo": 269486380,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269156186,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269156206,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCTargetStatusWnd::OnPaint"
+  ]
+ },
+ "100b0200": {
+  "stub": 269284912,
+  "funcinfo": 269486512,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269158715,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269158735,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPlayerStatusWnd::OnPaint"
+  ]
+ },
+ "100b0c30": {
+  "stub": 269284928,
+  "funcinfo": 269486644,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269160067,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269160087,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPetStatusWnd::OnPaint"
+  ]
+ },
+ "100b11b0": {
+  "stub": 269284944,
+  "funcinfo": 269486776,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269161382,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269161402,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCSummonedStatusWnd::OnPaint"
+  ]
+ },
+ "100b1500": {
+  "stub": 269284960,
+  "funcinfo": 269486908,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269162211,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269162231,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCPartyStatusWnd::OnPaint"
+  ]
+ },
+ "100b36e0": {
+  "stub": 269284985,
+  "funcinfo": 269486980,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269284976
+  ],
+  "guard": []
+ },
+ "100b3810": {
+  "stub": 269285030,
+  "funcinfo": 269487024,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269285008,
+   269285016
+  ],
+  "guard": []
+ },
+ "100b38a0": {
+  "stub": 269285064,
+  "funcinfo": 269487068,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269285040,
+   269285052
+  ],
+  "guard": []
+ },
+ "100b3f50": {
+  "stub": 269285112,
+  "funcinfo": 269487112,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269285088,
+   269285100
+  ],
+  "guard": []
+ },
+ "100b5d90": {
+  "stub": 269285154,
+  "funcinfo": 269487156,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269285136,
+   269285145
+  ],
+  "guard": []
+ },
+ "100b60e0": {
+  "stub": 269285179,
+  "funcinfo": 269487192,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269285168
+  ],
+  "guard": []
+ },
+ "100b61e0": {
+  "stub": 269285211,
+  "funcinfo": 269487228,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269285200
+  ],
+  "guard": []
+ },
+ "100b6a00": {
+  "stub": 269285240,
+  "funcinfo": 269487264,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269285232
+  ],
+  "guard": []
+ },
+ "100b72f0": {
+  "stub": 269285288,
+  "funcinfo": 269487308,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269285264,
+   269285276
+  ],
+  "guard": []
+ },
+ "100b79e0": {
+  "stub": 269285336,
+  "funcinfo": 269487352,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269285312,
+   269285324
+  ],
+  "guard": []
+ },
+ "100b9c00": {
+  "stub": 269285400,
+  "funcinfo": 269487424,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269285392
+  ],
+  "guard": []
+ },
+ "100ba460": {
+  "stub": 269285432,
+  "funcinfo": 269487496,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269285424
+  ],
+  "guard": []
+ },
+ "100bad80": {
+  "stub": 269285465,
+  "funcinfo": 269487532,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269285456
+  ],
+  "guard": []
+ },
+ "100baed0": {
+  "stub": 269285488,
+  "funcinfo": 269487628,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269202275,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269202295,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCTrainListBox::OnPaint"
+  ]
+ },
+ "100bb580": {
+  "stub": 269285536,
+  "funcinfo": 269487760,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269203161,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269203181,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCTrainListWnd::OnPaint"
+  ]
+ },
+ "100bb710": {
+  "stub": 269285564,
+  "funcinfo": 269487796,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269285552
+  ],
+  "guard": []
+ },
+ "100bb810": {
+  "stub": 269285595,
+  "funcinfo": 269487832,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269285584
+  ],
+  "guard": []
+ },
+ "100bba90": {
+  "stub": 269285616,
+  "funcinfo": 269487928,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269206210,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269206230,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCTrainInfoWnd::OnPaint"
+  ]
+ },
+ "100bc300": {
+  "stub": 269285643,
+  "funcinfo": 269487964,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269285632
+  ],
+  "guard": []
+ },
+ "100bc490": {
+  "stub": 269285664,
+  "funcinfo": 269488096,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269206797,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269206817,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCTrainWnd::OnPaint"
+  ]
+ },
+ "100bc840": {
+  "stub": 269285702,
+  "funcinfo": 269488176,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269285680,
+   269285688
+  ],
+  "guard": []
+ },
+ "100bcaa0": {
+  "stub": 269285721,
+  "funcinfo": 269488212,
+  "max_state": 1,
+  "catches": [],
+  "unwinds": [
+   269285712
+  ],
+  "guard": []
+ },
+ "100bcba0": {
+  "stub": 269285766,
+  "funcinfo": 269488256,
+  "max_state": 2,
+  "catches": [],
+  "unwinds": [
+   269285744,
+   269285752
+  ],
+  "guard": []
+ },
+ "100bd120": {
+  "stub": 269285808,
+  "funcinfo": 269488388,
+  "max_state": 2,
+  "catches": [
+   {
+    "va": 269210058,
+    "type": 269510872,
+    "adjectives": 0
+   },
+   {
+    "va": 269210078,
+    "type": 0,
+    "adjectives": 0
+   }
+  ],
+  "unwinds": [],
+  "guard": [
+   "NCNPCHtmlViewer::OnPaint"
+  ]
+ }
+}

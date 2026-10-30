@@ -1,0 +1,3 @@
+*.sh text eol=lf
+*.gen.cpp -diff
+tests/golden/** text eol=lf
